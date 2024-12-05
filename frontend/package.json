@@ -13,10 +13,10 @@
     "@tanstack/react-query": "^5.55.0",
     "axios": "^1.7.7",
     "date-fns": "^3.6.0",
-    "linkedin-clone": "file:..",
+    "linkedin-clone": "file:../linkedin-clone",  // Adjust path if needed
     "lucide-react": "^0.439.0",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
+    "react": "^18.2.0",  // Ensure this is the correct version
+    "react-dom": "^18.2.0",  // Ensure this is the correct version
     "react-hot-toast": "^2.4.1",
     "react-router-dom": "^6.26.1"
   },
